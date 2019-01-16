@@ -1,1 +1,1 @@
-# bulgarian_solitaire
+Bulgarian solitaire terminal based game.
